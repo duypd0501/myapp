@@ -5,6 +5,3 @@ void main() {
     Center(child:Text('DUY',textDirection: TextDirection.ltr,))
   );
 }
-void main(){
-  
-}
